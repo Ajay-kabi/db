@@ -1,61 +1,61 @@
 {
   "posts": [
-   {
-        "packageid": "1",
+       {
+        "packageid": 1,
         "packagename": "Package One",
         "packagetitle": "Package One Title",
         "packagedesc": "Package One Description"
     },
     {
-        "packageid": "7",
+        "packageid": 7,
         "packagename": "Package Two",
         "packagetitle": "Package Two Title",
         "packagedesc": "Package Two Description"
     },
     {
-        "packageid": "12",
+        "packageid": 12,
         "packagename": "Package Three",
         "packagetitle": "Package Three Title",
         "packagedesc": "Package Three Description"
     },
     {
-        "packageid": "17",
+        "packageid": 17,
         "packagename": "Package Four",
         "packagetitle": "Package Four Title",
         "packagedesc": "Package Four Description"
     },
     {
-        "packageid": "22",
+        "packageid": 22,
         "packagename": "Package Five",
         "packagetitle": "Package Five Title",
         "packagedesc": "Package Five Description"
     },
     {
-        "packageid": "27",
+        "packageid": 27,
         "packagename": "Package Six",
         "packagetitle": "Package Six Title",
         "packagedesc": "Package Six Description"
     },
     {
-        "packageid": "32",
+        "packageid": 32,
         "packagename": "Package Eight",
         "packagetitle": "Package Eight Title",
         "packagedesc": "Package Eight Description"
     },
     {
-        "packageid": "37",
+        "packageid": 37,
         "packagename": "Package Nine",
         "packagetitle": "Package Nine Title",
         "packagedesc": "Package Nine Description"
     },
     {
-        "packageid": "42",
+        "packageid": 42,
         "packagename": "Package Ten",
         "packagetitle": "Package Ten Title",
         "packagedesc": "Package Ten Description"
     },
     {
-        "packageid": "47",
+        "packageid": 47,
         "packagename": "Package Seven",
         "packagetitle": "Package Seven Title",
         "packagedesc": "Package Seven Description"

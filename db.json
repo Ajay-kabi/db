@@ -1,6 +1,5 @@
-{
-  "posts": [
-       {
+[
+    {
         "packageid": 1,
         "packagename": "Package One",
         "packagetitle": "Package One Title",
@@ -60,5 +59,4 @@
         "packagetitle": "Package Seven Title",
         "packagedesc": "Package Seven Description"
     }
-  ]
-}
+]

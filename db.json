@@ -1,62 +1,14 @@
-[
-    {
-        "packageid": "1",
-        "packagename": "Package One",
-        "packagetitle": "Package One Title",
-        "packagedesc": "Package One Description"
-    },
-    {
-        "packageid": "7",
-        "packagename": "Package Two",
-        "packagetitle": "Package Two Title",
-        "packagedesc": "Package Two Description"
-    },
-    {
-        "packageid": "12",
-        "packagename": "Package Three",
-        "packagetitle": "Package Three Title",
-        "packagedesc": "Package Three Description"
-    },
-    {
-        "packageid": "17",
-        "packagename": "Package Four",
-        "packagetitle": "Package Four Title",
-        "packagedesc": "Package Four Description"
-    },
-    {
-        "packageid": "22",
-        "packagename": "Package Five",
-        "packagetitle": "Package Five Title",
-        "packagedesc": "Package Five Description"
-    },
-    {
-        "packageid": "27",
-        "packagename": "Package Six",
-        "packagetitle": "Package Six Title",
-        "packagedesc": "Package Six Description"
-    },
-    {
-        "packageid": "32",
-        "packagename": "Package Eight",
-        "packagetitle": "Package Eight Title",
-        "packagedesc": "Package Eight Description"
-    },
-    {
-        "packageid": "37",
-        "packagename": "Package Nine",
-        "packagetitle": "Package Nine Title",
-        "packagedesc": "Package Nine Description"
-    },
-    {
-        "packageid": "42",
-        "packagename": "Package Ten",
-        "packagetitle": "Package Ten Title",
-        "packagedesc": "Package Ten Description"
-    },
-    {
-        "packageid": "47",
-        "packagename": "Package Seven",
-        "packagetitle": "Package Seven Title",
-        "packagedesc": "Package Seven Description"
-    }
-]
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
